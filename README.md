@@ -12,7 +12,7 @@ I am a <span style="color: #c09839">full-stack</span> developer with 10+ years o
 Feel free to <span style="color: #c09839">contact me</span>:
 
 [![Twitter Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=c09839&color=c09839)](https://instagram.com/yagiziskirik)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=c09839&color=c09839)](https://www.linkedin.com/yagiziskirik/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=c09839&color=c09839)](https://www.linkedin.com/in/yagiziskirik/)
 [![Twitter Badge](https://img.shields.io/badge/Email-Address-c09839?style=flat&logo=gmail&logoColor=c09839&color=c09839)](mailto:yagiziskirik@icloud.com)
 
 # 🌟 Favourite Repositories
