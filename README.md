@@ -13,7 +13,8 @@ Feel free to <span style="color: #c09839">contact me</span>:
 
 [![Twitter Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=c09839&color=c09839)](https://instagram.com/yagiziskirik)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=c09839&color=c09839)](https://www.linkedin.com/in/yagiziskirik/)
-[![Twitter Badge](https://img.shields.io/badge/Email-Address-c09839?style=flat&logo=gmail&logoColor=c09839&color=c09839)](mailto:yagiziskirik@icloud.com)
+[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=c09839&color=c09839)](https://yagiziskirik.medium.com)
+[![Mail Address](https://img.shields.io/badge/Email-Address-c09839?style=flat&logo=gmail&logoColor=c09839&color=c09839)](mailto:yagiziskirik@icloud.com)
 
 # 🌟 Favourite Repositories
 <a href="https://github.com/yagiziskirik/Kerbal-Telemetry">
