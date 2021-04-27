@@ -23,6 +23,9 @@ Feel free to <span style="color: #c09839">contact me</span>:
 <a href="https://github.com/yagiziskirik/PYrus">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=PYrus&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
+<a href="https://github.com/yagiziskirik/Another-Medium-Github-Readme">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Another-Medium-Github-Readme&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+</a>
 
 # 🤹🏼 Languages & Tools
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
