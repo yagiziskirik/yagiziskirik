@@ -56,6 +56,11 @@ Feel free to <span style="color: #c09839">contact me</span>:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagiziskirik/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yagiziskirik/0" alt="Recent Article #1"></a>
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagiziskirik/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yagiziskirik/1" alt="Recent Article 0"> 
+  
+# Interesting Facts About Numbers
+
+[![Number Facts](https://ygz-github-vercel.vercel.app/api/index)](https://github.com/yagiziskirik/YGZ-Github-Vercel)
+> You can check out the source code of it!
 
 # 🖥️ Interests
 I generally develop apps for <span style="color: #c09839">fun</span> or to make my life easier. I find <span style="color: #c09839">automation</span> is one of the most useful thing that programming can do, so I focused on that over the years. Besides I am into:
