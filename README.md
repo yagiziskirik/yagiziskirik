@@ -53,9 +53,10 @@ Feel free to <span style="color: #c09839">contact me</span>:
 ![](https://img.shields.io/badge/macOS-informational?style=flat&logo=macOS&logoColor=white&color=000000)
 
 # 📖 Latest Medium Articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagiziskirik/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yagiziskirik/0" alt="Recent Article #1"></a>
+  
+![API](https://another-medium-github-readme.vercel.app/api/medium?index=0&username=yagiziskirik&descLength=40)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagiziskirik/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yagiziskirik/1" alt="Recent Article 0"> 
+![API](https://another-medium-github-readme.vercel.app/api/medium?index=1&username=yagiziskirik&descLength=40)
   
 # ℹ️ Interesting Facts About Numbers
 
