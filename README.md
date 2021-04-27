@@ -57,7 +57,7 @@ Feel free to <span style="color: #c09839">contact me</span>:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yagiziskirik/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yagiziskirik/1" alt="Recent Article 0"> 
   
-# Interesting Facts About Numbers
+# ℹ️ Interesting Facts About Numbers
 
 [![Number Facts](https://ygz-github-vercel.vercel.app/api/index)](https://github.com/yagiziskirik/YGZ-Github-Vercel)
 > You can check out the source code of it!
