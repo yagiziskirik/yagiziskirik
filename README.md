@@ -57,9 +57,9 @@ Feel free to <span style="color: #c09839">contact me</span>:
 
 # 📖 Latest Medium Articles
   
-[![API](https://another-medium-github-readme.vercel.app/api/medium?index=0&username=yagiziskirik&descLength=40)](https://medium.com/interesthing)
+[![API](https://another-medium-github-readme.vercel.app/api/medium?index=0&username=yagiziskirik&borderRadius=5)](https://medium.com/interesthing)
 
-[![API](https://another-medium-github-readme.vercel.app/api/medium?index=1&username=yagiziskirik&descLength=40)](https://medium.com/interesthing)
+[![API](https://another-medium-github-readme.vercel.app/api/medium?index=1&username=yagiziskirik&borderRadius=5)](https://medium.com/interesthing)
   
 # ℹ️ Interesting Facts About Numbers
 
