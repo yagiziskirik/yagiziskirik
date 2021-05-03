@@ -58,11 +58,9 @@ Feel free to <span style="color: #c09839">contact me</span>:
 
 # 📖 Latest Medium Articles
   
-[![API](https://another-medium-github-readme.vercel.app/api/medium?index=0&username=yagiziskirik&borderRadius=5&generalWidth=100)](https://medium.com/interesthing)
-
-[![API](https://another-medium-github-readme.vercel.app/api/medium?index=1&username=yagiziskirik&borderRadius=5&generalWidth=50)](https://medium.com/interesthing)
-
-[![API](https://another-medium-github-readme.vercel.app/api/medium?index=2&username=yagiziskirik&borderRadius=5&generalWidth=50)](https://medium.com/interesthing)
+[![API](https://another-medium-github-readme.vercel.app/api/medium?index=0&username=yagiziskirik&borderRadius=5&generalWidth=450)](https://medium.com/interesthing)
+[![API](https://another-medium-github-readme.vercel.app/api/medium?index=1&username=yagiziskirik&borderRadius=5&generalWidth=450)](https://medium.com/interesthing)
+[![API](https://another-medium-github-readme.vercel.app/api/medium?index=2&username=yagiziskirik&borderRadius=5&generalWidth=450)](https://medium.com/interesthing)
 
 > You can add your own articles to your Github page as well. Chech out my [API](https://github.com/yagiziskirik/Another-Medium-Github-Readme)!
   
