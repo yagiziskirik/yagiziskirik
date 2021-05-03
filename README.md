@@ -46,6 +46,7 @@ Feel free to <span style="color: #c09839">contact me</span>:
 ![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=Visual%20Studio&logoColor=white&color=5C2D91)
+![](https://img.shields.io/badge/Xcode-informational?style=flat&logo=Xcode&logoColor=white&color=147EFB)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=Github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Adobe%20Illustrator-informational?style=flat&logo=Adobe%20Illustrator&logoColor=white&color=FF9A00)
 ![](https://img.shields.io/badge/Adobe%20XD-informational?style=flat&logo=Adobe%20XD&logoColor=white&color=FF61F6)
