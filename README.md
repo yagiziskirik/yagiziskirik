@@ -18,13 +18,16 @@ Feel free to <span style="color: #c09839">contact me</span>:
 
 # 🌟 Favourite Repositories
 <a href="https://github.com/yagiziskirik/Kerbal-Telemetry">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Kerbal-Telemetry&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Kerbal-Telemetry&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+</a>
+<a href="https://github.com/yagiziskirik/Another-Medium-Github-Readme">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Another-Medium-Github-Readme&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 <a href="https://github.com/yagiziskirik/PYrus">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=PYrus&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
-<a href="https://github.com/yagiziskirik/Another-Medium-Github-Readme">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Another-Medium-Github-Readme&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+<a href="https://github.com/yagiziskirik/ScreenTypr">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=ScreenTypr&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 
 # 🤹🏼 Languages & Tools
@@ -61,6 +64,7 @@ Feel free to <span style="color: #c09839">contact me</span>:
 [![API](https://another-medium-github-readme.vercel.app/api/medium?index=0&username=yagiziskirik&borderRadius=5&generalWidth=450)](https://medium.com/interesthing)
 [![API](https://another-medium-github-readme.vercel.app/api/medium?index=1&username=yagiziskirik&borderRadius=5&generalWidth=450)](https://medium.com/interesthing)
 [![API](https://another-medium-github-readme.vercel.app/api/medium?index=2&username=yagiziskirik&borderRadius=5&generalWidth=450)](https://medium.com/interesthing)
+[![API](https://another-medium-github-readme.vercel.app/api/medium?index=3&username=yagiziskirik&borderRadius=5&generalWidth=450)](https://medium.com/interesthing)
 
 > You can add your own articles to your Github page as well. Chech out my [API](https://github.com/yagiziskirik/Another-Medium-Github-Readme)!
   
