@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" height="30"> Welcome to my profile!
+# <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" height="30" width="30"> Welcome to my profile!
 ![Banner](https://i.ibb.co/4FvmGvQ/ezgif-com-gif-maker-6.gif)
 
 # 🤷 About
