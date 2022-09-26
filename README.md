@@ -24,7 +24,7 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 
 ---
 
-# 🌟 Favourite Repositories
+# 🌟 Personal Favourites
 <a href="https://github.com/yagiziskirik/Kerbal-Telemetry">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Kerbal-Telemetry&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
