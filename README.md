@@ -37,6 +37,12 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 <a href="https://github.com/yagiziskirik/ScreenTypr">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=ScreenTypr&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
+<a href="https://github.com/yagiziskirik/ScreenTypr">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=BruteText&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+</a>
+<a href="https://github.com/yagiziskirik/ScreenTypr">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Github-Colored-Text&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+</a>
 
 ---
 
@@ -70,6 +76,7 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=Visual%20Studio&logoColor=white&color=5C2D91)
 ![](https://img.shields.io/badge/Xcode-informational?style=flat&logo=Xcode&logoColor=white&color=147EFB)
+![](https://img.shields.io/badge/NeoVim-informational?style=flat&logo=neovim&logoColor=white&color=57A143)
 
 ### 🪄 Programs & Design
 
