@@ -37,10 +37,10 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 <a href="https://github.com/yagiziskirik/ScreenTypr">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=ScreenTypr&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
-<a href="https://github.com/yagiziskirik/ScreenTypr">
+<a href="https://github.com/yagiziskirik/BruteText">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=BruteText&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
-<a href="https://github.com/yagiziskirik/ScreenTypr">
+<a href="https://github.com/yagiziskirik/Github-Colored-Text">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Github-Colored-Text&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 
