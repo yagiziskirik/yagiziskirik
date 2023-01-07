@@ -63,6 +63,7 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Batch-informational?style=flat&logo=Windows%20Terminal&logoColor=white&color=4D4D4D)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=Windows%20Terminal&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Lua-informational?style=flat&logo=Lua&logoColor=white&color=2C2D72)
 
 ### 🌎 Platforms
 
