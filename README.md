@@ -9,8 +9,8 @@ I am a ![full-stack](https://github-colored-text-fn3z.vercel.app/api/index?text=
 ---
 
 # 📈 Stats
-[![yagiziskirik's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagiziskirik&show_icons=true&count_private=true&theme=dark&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagiziskirik&count_private=true&theme=dark&layout=compact&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
+[![yagiziskirik's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yagiziskirik&show_icons=true&count_private=true&theme=dark&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yagiziskirik&count_private=true&theme=dark&layout=compact&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
 
 ---
 
@@ -26,22 +26,22 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 
 # 🌟 Personal Favourites
 <a href="https://github.com/yagiziskirik/Kerbal-Telemetry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Kerbal-Telemetry&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yagiziskirik&repo=Kerbal-Telemetry&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 <a href="https://github.com/yagiziskirik/Another-Medium-Github-Readme">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Another-Medium-Github-Readme&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yagiziskirik&repo=Another-Medium-Github-Readme&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 <a href="https://github.com/yagiziskirik/PYrus">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=PYrus&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yagiziskirik&repo=PYrus&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 <a href="https://github.com/yagiziskirik/ScreenTypr">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=ScreenTypr&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yagiziskirik&repo=ScreenTypr&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 <a href="https://github.com/yagiziskirik/BruteText">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=BruteText&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yagiziskirik&repo=BruteText&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 <a href="https://github.com/yagiziskirik/Github-Colored-Text">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Github-Colored-Text&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yagiziskirik&repo=Github-Colored-Text&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 
 ---
