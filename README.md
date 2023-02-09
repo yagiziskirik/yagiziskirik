@@ -20,6 +20,7 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 [![Twitter Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=c09839&color=c09839)](https://instagram.com/yagiziskirik)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=c09839&color=c09839)](https://www.linkedin.com/in/yagiziskirik/)
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=c09839&color=c09839)](https://yagiziskirik.medium.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=discord&logoColor=c09839&color=c09839)](http://discordapp.com/users/486988591436660736)
 [![Mail Address](https://img.shields.io/badge/Email-Address-c09839?style=flat&logo=gmail&logoColor=c09839&color=c09839)](mailto:yagiziskirik@icloud.com)
 
 ---
@@ -55,7 +56,7 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 ![](https://img.shields.io/badge/C%23-informational?style=flat&logo=c%20sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=F7DF1E)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=7952B3)
 ![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=0769AD)
 ![](https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=000000)
@@ -64,10 +65,13 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 ![](https://img.shields.io/badge/Batch-informational?style=flat&logo=Windows%20Terminal&logoColor=white&color=4D4D4D)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=Windows%20Terminal&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Lua-informational?style=flat&logo=Lua&logoColor=white&color=2C2D72)
+![](https://img.shields.io/badge/Electron-informational?style=flat&logo=Electron&logoColor=white&color=47848F)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
+![](https://img.shields.io/badge/Swift-informational?style=flat&logo=Swift&logoColor=white&color=F05138)
 
 ### 🌎 Platforms
 
-![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=FFCA28)
+![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&logoColor=black&color=FFCA28)
 ![](https://img.shields.io/badge/Microsoft%20Azure-informational?style=flat&logo=Microsoft%20Azure&logoColor=white&color=0089D6)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=Github&logoColor=white&color=181717)
 
@@ -85,10 +89,16 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 ![](https://img.shields.io/badge/Adobe%20XD-informational?style=flat&logo=Adobe%20XD&logoColor=white&color=FF61F6)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=31A8FF)
 ![](https://img.shields.io/badge/Adobe%20After%20Effects-informational?style=flat&logo=Adobe%20After%20Effects&logoColor=white&color=9999FF)
+![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-informational?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white&color=9999FF)
+![](https://img.shields.io/badge/Adobe%20Audition-informational?style=flat&logo=Adobe%20Audition&logoColor=white&color=9999FF)
+![](https://img.shields.io/badge/Blender-informational?style=flat&logo=Blender&logoColor=white&color=F5792A)
+![](https://img.shields.io/badge/iTerm2-informational?style=flat&logo=iTerm2&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Trello-informational?style=flat&logo=Trello&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/Unity-informational?style=flat&logo=Unity&logoColor=000000&color=FFFFFF)
 
 ### 💾 Operating Systems
 
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=black&color=FCC624)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/macOS-informational?style=flat&logo=macOS&logoColor=white&color=000000)
 
