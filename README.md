@@ -66,6 +66,7 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=Windows%20Terminal&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Lua-informational?style=flat&logo=Lua&logoColor=white&color=2C2D72)
 ![](https://img.shields.io/badge/Electron-informational?style=flat&logo=Electron&logoColor=white&color=47848F)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61DAFB)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=Swift&logoColor=white&color=F05138)
 
