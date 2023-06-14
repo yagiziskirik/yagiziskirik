@@ -1,6 +1,7 @@
 # <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" height="30" width="30"> Welcome to my profile!
-<img src="https://i.ibb.co/4FvmGvQ/ezgif-com-gif-maker-6.gif" width="100%" height="auto" />
+<img src="https://i.ibb.co/jfKDKnP/gh.png" width="100%" height="auto" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=C09839&width=435&lines=It+is+very+nice+to+see+you+wondering;+in+my+README+page!)](https://git.io/typing-svg)
 ---
 
 # 🤷 About
@@ -9,8 +10,17 @@ I am a ![full-stack](https://github-colored-text-fn3z.vercel.app/api/index?text=
 ---
 
 # 📈 Stats
-[![yagiziskirik's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yagiziskirik&show_icons=true&count_private=true&theme=dark&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yagiziskirik&count_private=true&theme=dark&layout=compact&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
+[![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yagiziskirik&show_icons=true&hide=issues&count_private=true&theme=dark&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
+[![My Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yagiziskirik&count_private=true&theme=dark&layout=compact&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
+
+## 🏆 My Trophies on Github
+![My Trophies](https://github-profile-trophy.vercel.app/?username=yagiziskirik&theme=juicyfresh&margin-w=10&margin-h=10)
+
+## 🚧 Contribution (I Hope It's Looking Okay 😅)
+[![My Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=yagiziskirik&theme=dark&ring=c09839&currStreakLabel=c09839&fire=c09839&background=151515)](https://github.com/yagiziskirik)
+
+## ⏱️ Time I've Spent on Coding This Week
+[![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yagiziskirik&theme=dark&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
 
 ---
 
@@ -67,6 +77,7 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 ![](https://img.shields.io/badge/Lua-informational?style=flat&logo=Lua&logoColor=white&color=2C2D72)
 ![](https://img.shields.io/badge/Electron-informational?style=flat&logo=Electron&logoColor=white&color=47848F)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61DAFB)
+![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=Swift&logoColor=white&color=F05138)
 
@@ -75,6 +86,7 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&logoColor=black&color=FFCA28)
 ![](https://img.shields.io/badge/Microsoft%20Azure-informational?style=flat&logo=Microsoft%20Azure&logoColor=white&color=0089D6)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=Github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/Vercel-informational?style=flat&logo=Vercel&logoColor=white&color=000000)
 
 ### 🛠️ IDEs
 
@@ -102,6 +114,22 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=black&color=FCC624)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/macOS-informational?style=flat&logo=macOS&logoColor=white&color=000000)
+
+### 🛜 My Browsers
+
+![](https://img.shields.io/badge/Safari-informational?style=flat&logo=Safari&logoColor=white&color=black)
+![](https://img.shields.io/badge/Firefox-informational?style=flat&logo=Firefox&logoColor=white&color=FF7139)
+![](https://img.shields.io/badge/Chrome-informational?style=flat&logo=Google-Chrome&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/OperaGX-informational?style=flat&logo=Opera&logoColor=white&color=FF1B2D)
+![](https://img.shields.io/badge/Tor%20Browser-informational?style=flat&logo=Tor-Browser&logoColor=white&color=7D4698)
+
+---
+
+# 🎧 Last Thing I've Listened To
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=002026.6c155064486f4885863d9e7bae012262.1756)](https://github.com/rayriffy/apple-music-github-profile)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yagiz190799&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=yagiz190799&redirect=true)
 
 ---
 
