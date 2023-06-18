@@ -129,7 +129,7 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=002026.6c155064486f4885863d9e7bae012262.1756)](https://github.com/rayriffy/apple-music-github-profile)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yagiz190799&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=yagiz190799&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yagiz190799&cover_image=true&theme=default&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=yagiz190799&redirect=true)
 
 ---
 
