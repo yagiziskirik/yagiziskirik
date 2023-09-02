@@ -19,7 +19,7 @@ I am a ![full-stack](https://github-colored-text-fn3z.vercel.app/api/index?text=
 ## 🚧 Contribution (I Hope It's Looking Okay 😅)
 [![My Contribution Stats](https://github-readme-streak-stats.herokuapp.com/?user=yagiziskirik&theme=dark&ring=c09839&currStreakLabel=c09839&fire=c09839&background=151515)](https://github.com/yagiziskirik)
 
-## ⏱️ Time I've Spent on Coding This Week
+## ⏱️ Time I've Spent on Coding (Since I've started using WakaTime)
 [![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yagiziskirik&theme=dark&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
 
 ---
