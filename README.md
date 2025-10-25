@@ -10,8 +10,8 @@ I am a ![full-stack](https://github-colored-text-fn3z.vercel.app/api/index?text=
 ---
 
 # 📈 Stats
-[![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yagiziskirik&show_icons=true&hide=issues&count_private=true&theme=dark&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
-[![My Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yagiziskirik&count_private=true&theme=dark&layout=compact&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yagiziskirik&show_icons=true&hide=issues&count_private=true&theme=dark&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
+[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagiziskirik&count_private=true&theme=dark&layout=compact&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515)](https://github.com/yagiziskirik)
 
 ## 🏆 My Trophies on Github
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=yagiziskirik&theme=juicyfresh&margin-w=10&margin-h=10)
@@ -37,22 +37,22 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 
 # 🌟 Personal Favourites
 <a href="https://github.com/yagiziskirik/Kerbal-Telemetry">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yagiziskirik&repo=Kerbal-Telemetry&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Kerbal-Telemetry&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 <a href="https://github.com/yagiziskirik/Another-Medium-Github-Readme">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yagiziskirik&repo=Another-Medium-Github-Readme&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Another-Medium-Github-Readme&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 <a href="https://github.com/yagiziskirik/PYrus">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yagiziskirik&repo=PYrus&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=PYrus&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 <a href="https://github.com/yagiziskirik/ScreenTypr">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yagiziskirik&repo=ScreenTypr&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=ScreenTypr&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 <a href="https://github.com/yagiziskirik/BruteText">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yagiziskirik&repo=BruteText&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=BruteText&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 <a href="https://github.com/yagiziskirik/Github-Colored-Text">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yagiziskirik&repo=Github-Colored-Text&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yagiziskirik&repo=Github-Colored-Text&title_color=c09839&text_color=c9cacc&icon_color=c09839&bg_color=151515" />
 </a>
 
 ---
@@ -126,10 +126,9 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 ---
 
 # 🎧 Last Thing I've Listened To
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=002026.6c155064486f4885863d9e7bae012262.1756)](https://music-profile.rayriffy.com)
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=002026.6c155064486f4885863d9e7bae012262.1756)](https://github.com/rayriffy/apple-music-github-profile)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yagiz190799&cover_image=true&theme=default&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=yagiz190799&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yagiz190799&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
@@ -141,13 +140,16 @@ Feel free to ![contact me](https://github-colored-text-fn3z.vercel.app/api/index
 [![API](https://another-medium-github-readme.vercel.app/api/medium?index=3&username=yagiziskirik&borderRadius=5&generalWidth=450)](https://medium.com/interesthing)
 
 > You can add your own articles to your Github page as well. Chech out my [![API](https://github-colored-text-fn3z.vercel.app/api/index?text=API&color=c09839&width=29&fontSize=17)](https://github.com/yagiziskirik/Another-Medium-Github-Readme)!
-  
+
+<!--
 ---
   
 # ℹ️ Interesting Facts About Numbers
 
 [![Number Facts](https://ygz-github-vercel.vercel.app/api/index)](https://github.com/yagiziskirik/YGZ-Github-Vercel)
 > You can check out the [![source code](https://github-colored-text-fn3z.vercel.app/api/index?text=source+code&color=c09839&width=81&fontSize=17)](https://github.com/yagiziskirik/YGZ-Github-Vercel) of it!
+
+-->
 
 ---
 
